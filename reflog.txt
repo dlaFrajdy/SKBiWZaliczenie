@@ -1,0 +1,17 @@
+barte@DESKTOP-4DS0O60 MINGW64 ~/Desktop/ZaliczenieGIT/SKBiWZaliczenie (texts)
+$ git reflog
+db7a34f (HEAD -> texts, tag: v1.1, origin/texts) HEAD@{0}: commit: Kant rozprawa
+8e7c386 HEAD@{1}: commit: Lorem ipsum
+2fb3827 (origin/main, origin/HEAD, main) HEAD@{2}: checkout: moving from main to texts
+2fb3827 (origin/main, origin/HEAD, main) HEAD@{3}: pull --tags origin main: Fast-forward
+647fc3a HEAD@{4}: checkout: moving from personal_details to main
+44b5415 (tag: v1.0, origin/personal_details, personal_details) HEAD@{5}: checkout: moving from main to personal_details
+647fc3a HEAD@{6}: checkout: moving from personal_details to main
+44b5415 (tag: v1.0, origin/personal_details, personal_details) HEAD@{7}: commit: E-mail adress
+cc1357f HEAD@{8}: commit: Index number
+d523a60 HEAD@{9}: commit: First name and last name
+647fc3a HEAD@{10}: checkout: moving from main to personal_details
+647fc3a HEAD@{11}: clone: from https://github.com/dlaFrajdy/SKBiWZaliczenie.git
+
+barte@DESKTOP-4DS0O60 MINGW64 ~/Desktop/ZaliczenieGIT/SKBiWZaliczenie (texts)
+$
